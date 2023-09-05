@@ -1,6 +1,6 @@
 ## Hi, I am buyyakhoo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I love building website and study more about AI/ML and a little bit Cybersecurity
+I love building website and study more about Algorithms, AI/ML and a little bit Cybersecurity
 - 📚 Hobby: Coding, Music, Watching Youtube, Reading Blogs
 - 👨‍💻 Studying Computer Science (University)
 - 📫 About me: https://buyyakhoo.github.io/minimalism/
