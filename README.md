@@ -3,7 +3,7 @@
 I love building website and study more about Software Engineering, AI/ML and a little bit Cybersecurity
 - 📚 Hobby: Coding, Music, Watching Youtube, Reading Blogs
 - 👨‍💻 Studying Computer Science (University)
-- 📫 About me: https://buyyakhoo.github.io/minimalism/
+- 📫 About me: https://byk.vercel.app
 
 ### ⭐ GitHub Stats
 
